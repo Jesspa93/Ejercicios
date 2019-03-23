@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Example
+Bundle-SymbolicName: example
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: example
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
